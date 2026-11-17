@@ -44,5 +44,3 @@ Phone: **(614) 525-0039**
 Email: **maurcio@savvyautosales.net**  
 Website: **savvyautosale.com**
 
-**Suggested opt-in checkbox text for your website or forms:**  
-“By checking this box, I agree to receive customer-care text messages from Savvy Auto Sales LLC about my vehicle inquiries, appointments, purchase updates, service reminders, and account-related notifications. Message frequency varies. Message and data rates may apply. Reply STOP to opt out or HELP for help. Consent is not a condition of purchase. See our SMS Privacy Policy and SMS Terms and Conditions.”
