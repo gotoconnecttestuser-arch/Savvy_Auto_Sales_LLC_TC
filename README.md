@@ -6,7 +6,12 @@ These SMS Terms and Conditions govern text messages sent by Savvy Auto Sales LLC
 
 ## Program description
 
-If you opt in, Savvy Auto Sales may send you customer-care text messages related to your interactions with us. Messages may concern vehicle inquiries, appointment scheduling or updates, purchase updates, service reminders, and account-related notifications.
+By providing your mobile number and opting in to receive SMS messages from Savvy Auto Sales LLC, you agree to receive customer care messages.
+
+Message frequency: Message frequency may vary. On average, 1-2 messages per month.
+Carrier disclosure: Message and data rates may apply.
+Privacy Policy: https://github.com/gotoconnecttestuser-arch/Savvy_Auto_Sales_LLC_PP
+Consent to receive SMS messages is not required as a condition of purchase.
 
 ## How to opt in
 
